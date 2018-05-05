@@ -4,7 +4,7 @@ import java.io.IOException;
 
 class A{
 	public void displayA() throws Exception{
-		String k = "vinit";
+		String k = "keyur";
 		System.out.println("A......"+k.length());
 	}
 }
